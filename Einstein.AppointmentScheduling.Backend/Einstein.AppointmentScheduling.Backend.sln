@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.0 - API", "1.0 - API", "{B7DFFBDF-2AFF-427D-A950-AB293EEC0B4E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Einstein.AppointmentScheduling.API", "APIApp\Einstein.AppointmentScheduling.API.csproj", "{F3DC380C-8516-4462-A6D5-29CFE2A35093}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.0 - Application", "2.0 - Application", "{79125C7C-CB55-4127-879B-99B07B8FDBBB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.0 - Domain", "3.0 - Domain", "{BA582071-8CF8-4E58-9B0D-C9E59F30721B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.0 - CrossCutting", "4.0 - CrossCutting", "{338897D2-ADA7-4018-B4C7-98405B54D5A6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Application", "Application\Application.csproj", "{0DFE52E4-D4A9-4218-9D30-3F2D83E915C2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.1 - Data", "4.1 - Data", "{95283BB5-81C2-4D6A-9186-CCAE4265C8CB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Data", "Data\Data.csproj", "{B3D75113-B7AC-466C-ADE9-86DCD6BBEC74}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain", "Domain\Domain.csproj", "{6BCE39CE-B7E4-40A3-AAA8-E83EE82ABF56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3DC380C-8516-4462-A6D5-29CFE2A35093}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3DC380C-8516-4462-A6D5-29CFE2A35093}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3DC380C-8516-4462-A6D5-29CFE2A35093}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3DC380C-8516-4462-A6D5-29CFE2A35093}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DFE52E4-D4A9-4218-9D30-3F2D83E915C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DFE52E4-D4A9-4218-9D30-3F2D83E915C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DFE52E4-D4A9-4218-9D30-3F2D83E915C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DFE52E4-D4A9-4218-9D30-3F2D83E915C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3D75113-B7AC-466C-ADE9-86DCD6BBEC74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3D75113-B7AC-466C-ADE9-86DCD6BBEC74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3D75113-B7AC-466C-ADE9-86DCD6BBEC74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3D75113-B7AC-466C-ADE9-86DCD6BBEC74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BCE39CE-B7E4-40A3-AAA8-E83EE82ABF56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BCE39CE-B7E4-40A3-AAA8-E83EE82ABF56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BCE39CE-B7E4-40A3-AAA8-E83EE82ABF56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BCE39CE-B7E4-40A3-AAA8-E83EE82ABF56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F3DC380C-8516-4462-A6D5-29CFE2A35093} = {B7DFFBDF-2AFF-427D-A950-AB293EEC0B4E}
+		{0DFE52E4-D4A9-4218-9D30-3F2D83E915C2} = {79125C7C-CB55-4127-879B-99B07B8FDBBB}
+		{95283BB5-81C2-4D6A-9186-CCAE4265C8CB} = {338897D2-ADA7-4018-B4C7-98405B54D5A6}
+		{B3D75113-B7AC-466C-ADE9-86DCD6BBEC74} = {95283BB5-81C2-4D6A-9186-CCAE4265C8CB}
+		{6BCE39CE-B7E4-40A3-AAA8-E83EE82ABF56} = {BA582071-8CF8-4E58-9B0D-C9E59F30721B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65FC7F21-BD0E-4782-A867-832225B0CE10}
+	EndGlobalSection
+EndGlobal

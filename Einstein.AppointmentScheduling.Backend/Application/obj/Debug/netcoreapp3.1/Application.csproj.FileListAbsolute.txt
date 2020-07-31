@@ -1,0 +1,34 @@
+E:\Users\Felipe Benevides\Documents\Consertae Tudo\Projeto\ConsertaeApi\Consertae.Backend\Application\bin\Debug\netcoreapp3.1\Application.deps.json
+E:\Users\Felipe Benevides\Documents\Consertae Tudo\Projeto\ConsertaeApi\Consertae.Backend\Application\bin\Debug\netcoreapp3.1\Application.dll
+E:\Users\Felipe Benevides\Documents\Consertae Tudo\Projeto\ConsertaeApi\Consertae.Backend\Application\bin\Debug\netcoreapp3.1\Application.pdb
+E:\Users\Felipe Benevides\Documents\Consertae Tudo\Projeto\ConsertaeApi\Consertae.Backend\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+E:\Users\Felipe Benevides\Documents\Consertae Tudo\Projeto\ConsertaeApi\Consertae.Backend\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+E:\Users\Felipe Benevides\Documents\Consertae Tudo\Projeto\ConsertaeApi\Consertae.Backend\Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
+E:\Users\Felipe Benevides\Documents\Consertae Tudo\Projeto\ConsertaeApi\Consertae.Backend\Application\obj\Debug\netcoreapp3.1\Application.dll
+E:\Users\Felipe Benevides\Documents\Consertae Tudo\Projeto\ConsertaeApi\Consertae.Backend\Application\obj\Debug\netcoreapp3.1\Application.pdb
+E:\Users\Felipe Benevides\Documents\DigitalBank\DigitalBankApi\DigitalBank.Backend\Application\bin\Debug\netcoreapp3.1\Application.deps.json
+E:\Users\Felipe Benevides\Documents\DigitalBank\DigitalBankApi\DigitalBank.Backend\Application\bin\Debug\netcoreapp3.1\Application.dll
+E:\Users\Felipe Benevides\Documents\DigitalBank\DigitalBankApi\DigitalBank.Backend\Application\bin\Debug\netcoreapp3.1\Application.pdb
+E:\Users\Felipe Benevides\Documents\DigitalBank\DigitalBankApi\DigitalBank.Backend\Application\bin\Debug\netcoreapp3.1\Domain.dll
+E:\Users\Felipe Benevides\Documents\DigitalBank\DigitalBankApi\DigitalBank.Backend\Application\bin\Debug\netcoreapp3.1\Infrastructure.dll
+E:\Users\Felipe Benevides\Documents\DigitalBank\DigitalBankApi\DigitalBank.Backend\Application\bin\Debug\netcoreapp3.1\Domain.pdb
+E:\Users\Felipe Benevides\Documents\DigitalBank\DigitalBankApi\DigitalBank.Backend\Application\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+E:\Users\Felipe Benevides\Documents\DigitalBank\DigitalBankApi\DigitalBank.Backend\Application\obj\Debug\netcoreapp3.1\Application.csprojAssemblyReference.cache
+E:\Users\Felipe Benevides\Documents\DigitalBank\DigitalBankApi\DigitalBank.Backend\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+E:\Users\Felipe Benevides\Documents\DigitalBank\DigitalBankApi\DigitalBank.Backend\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+E:\Users\Felipe Benevides\Documents\DigitalBank\DigitalBankApi\DigitalBank.Backend\Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
+E:\Users\Felipe Benevides\Documents\DigitalBank\DigitalBankApi\DigitalBank.Backend\Application\obj\Debug\netcoreapp3.1\Application.csproj.CopyComplete
+E:\Users\Felipe Benevides\Documents\DigitalBank\DigitalBankApi\DigitalBank.Backend\Application\obj\Debug\netcoreapp3.1\Application.dll
+E:\Users\Felipe Benevides\Documents\DigitalBank\DigitalBankApi\DigitalBank.Backend\Application\obj\Debug\netcoreapp3.1\Application.pdb
+E:\Users\Felipe Benevides\Documents\Testes\Einstein\netcore-test\DigitalBank.Backend\Application\bin\Debug\netcoreapp3.1\Application.deps.json
+E:\Users\Felipe Benevides\Documents\Testes\Einstein\netcore-test\DigitalBank.Backend\Application\bin\Debug\netcoreapp3.1\Application.dll
+E:\Users\Felipe Benevides\Documents\Testes\Einstein\netcore-test\DigitalBank.Backend\Application\bin\Debug\netcoreapp3.1\Application.pdb
+E:\Users\Felipe Benevides\Documents\Testes\Einstein\netcore-test\DigitalBank.Backend\Application\bin\Debug\netcoreapp3.1\Domain.dll
+E:\Users\Felipe Benevides\Documents\Testes\Einstein\netcore-test\DigitalBank.Backend\Application\bin\Debug\netcoreapp3.1\Domain.pdb
+E:\Users\Felipe Benevides\Documents\Testes\Einstein\netcore-test\DigitalBank.Backend\Application\obj\Debug\netcoreapp3.1\Application.csprojAssemblyReference.cache
+E:\Users\Felipe Benevides\Documents\Testes\Einstein\netcore-test\DigitalBank.Backend\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+E:\Users\Felipe Benevides\Documents\Testes\Einstein\netcore-test\DigitalBank.Backend\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+E:\Users\Felipe Benevides\Documents\Testes\Einstein\netcore-test\DigitalBank.Backend\Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
+E:\Users\Felipe Benevides\Documents\Testes\Einstein\netcore-test\DigitalBank.Backend\Application\obj\Debug\netcoreapp3.1\Application.csproj.CopyComplete
+E:\Users\Felipe Benevides\Documents\Testes\Einstein\netcore-test\DigitalBank.Backend\Application\obj\Debug\netcoreapp3.1\Application.dll
+E:\Users\Felipe Benevides\Documents\Testes\Einstein\netcore-test\DigitalBank.Backend\Application\obj\Debug\netcoreapp3.1\Application.pdb
