@@ -1,0 +1,4 @@
+﻿Properties/PublishProfiles/*
+.vs/
+obj/
+appsettings.[Ll]ocal.json
