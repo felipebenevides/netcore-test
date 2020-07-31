@@ -1,3 +1,27 @@
+# Api Desenvolvido por Felipe Benevides - Teste backend do Albert Einstein!
+
+<br/>
+
+Ajustar no Appconfig as configurações do Banco Local.
+Criar Banco AppointmentScheduling
+
+# CREATE DATABASE AppointmentScheduling
+
+Abrir o Packcage Manager Console e executar o seguinte comando:
+
+# Update-Database 
+
+Para testar os endpoints a API irá rodar na porta 5001 com Swagger para auxiliar nos endpoins.
+
+Para criação de Doctor, Patient e Consultation remova a propriedade Id do Objeto.
+
+Quaisquer Dúvidas e Sugestões construtivas estou à Disposição!
+
+# Felipe Benevides 
+# 11 99904 6971
+
+
+
 # netcore-test
 
 ## Bem vindx ao teste de backend do Albert Einstein!
