@@ -1,0 +1,18 @@
+E:\Users\Felipe Benevides\Documents\Consertae Tudo\Projeto\ConsertaeApi\Consertae.Backend\Integration\bin\Debug\netcoreapp3.1\Integration.deps.json
+E:\Users\Felipe Benevides\Documents\Consertae Tudo\Projeto\ConsertaeApi\Consertae.Backend\Integration\bin\Debug\netcoreapp3.1\Integration.dll
+E:\Users\Felipe Benevides\Documents\Consertae Tudo\Projeto\ConsertaeApi\Consertae.Backend\Integration\bin\Debug\netcoreapp3.1\Integration.pdb
+E:\Users\Felipe Benevides\Documents\Consertae Tudo\Projeto\ConsertaeApi\Consertae.Backend\Integration\obj\Debug\netcoreapp3.1\Integration.csprojAssemblyReference.cache
+E:\Users\Felipe Benevides\Documents\Consertae Tudo\Projeto\ConsertaeApi\Consertae.Backend\Integration\obj\Debug\netcoreapp3.1\Integration.AssemblyInfoInputs.cache
+E:\Users\Felipe Benevides\Documents\Consertae Tudo\Projeto\ConsertaeApi\Consertae.Backend\Integration\obj\Debug\netcoreapp3.1\Integration.AssemblyInfo.cs
+E:\Users\Felipe Benevides\Documents\Consertae Tudo\Projeto\ConsertaeApi\Consertae.Backend\Integration\obj\Debug\netcoreapp3.1\Integration.csproj.CoreCompileInputs.cache
+E:\Users\Felipe Benevides\Documents\Consertae Tudo\Projeto\ConsertaeApi\Consertae.Backend\Integration\obj\Debug\netcoreapp3.1\Integration.dll
+E:\Users\Felipe Benevides\Documents\Consertae Tudo\Projeto\ConsertaeApi\Consertae.Backend\Integration\obj\Debug\netcoreapp3.1\Integration.pdb
+E:\Users\Felipe Benevides\Documents\DigitalBank\DigitalBankApi\DigitalBank.Backend\Integration\bin\Debug\netcoreapp3.1\Integration.deps.json
+E:\Users\Felipe Benevides\Documents\DigitalBank\DigitalBankApi\DigitalBank.Backend\Integration\bin\Debug\netcoreapp3.1\Integration.dll
+E:\Users\Felipe Benevides\Documents\DigitalBank\DigitalBankApi\DigitalBank.Backend\Integration\bin\Debug\netcoreapp3.1\Integration.pdb
+E:\Users\Felipe Benevides\Documents\DigitalBank\DigitalBankApi\DigitalBank.Backend\Integration\obj\Debug\netcoreapp3.1\Integration.csprojAssemblyReference.cache
+E:\Users\Felipe Benevides\Documents\DigitalBank\DigitalBankApi\DigitalBank.Backend\Integration\obj\Debug\netcoreapp3.1\Integration.AssemblyInfoInputs.cache
+E:\Users\Felipe Benevides\Documents\DigitalBank\DigitalBankApi\DigitalBank.Backend\Integration\obj\Debug\netcoreapp3.1\Integration.AssemblyInfo.cs
+E:\Users\Felipe Benevides\Documents\DigitalBank\DigitalBankApi\DigitalBank.Backend\Integration\obj\Debug\netcoreapp3.1\Integration.csproj.CoreCompileInputs.cache
+E:\Users\Felipe Benevides\Documents\DigitalBank\DigitalBankApi\DigitalBank.Backend\Integration\obj\Debug\netcoreapp3.1\Integration.dll
+E:\Users\Felipe Benevides\Documents\DigitalBank\DigitalBankApi\DigitalBank.Backend\Integration\obj\Debug\netcoreapp3.1\Integration.pdb

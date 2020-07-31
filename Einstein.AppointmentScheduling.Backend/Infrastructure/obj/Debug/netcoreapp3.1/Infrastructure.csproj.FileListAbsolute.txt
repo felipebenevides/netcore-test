@@ -1,0 +1,27 @@
+E:\Users\Felipe Benevides\Documents\Consertae Tudo\Projeto\ConsertaeApi\Consertae.Backend\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.deps.json
+E:\Users\Felipe Benevides\Documents\Consertae Tudo\Projeto\ConsertaeApi\Consertae.Backend\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.dll
+E:\Users\Felipe Benevides\Documents\Consertae Tudo\Projeto\ConsertaeApi\Consertae.Backend\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+E:\Users\Felipe Benevides\Documents\Consertae Tudo\Projeto\ConsertaeApi\Consertae.Backend\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csprojAssemblyReference.cache
+E:\Users\Felipe Benevides\Documents\Consertae Tudo\Projeto\ConsertaeApi\Consertae.Backend\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+E:\Users\Felipe Benevides\Documents\Consertae Tudo\Projeto\ConsertaeApi\Consertae.Backend\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+E:\Users\Felipe Benevides\Documents\Consertae Tudo\Projeto\ConsertaeApi\Consertae.Backend\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CoreCompileInputs.cache
+E:\Users\Felipe Benevides\Documents\Consertae Tudo\Projeto\ConsertaeApi\Consertae.Backend\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
+E:\Users\Felipe Benevides\Documents\Consertae Tudo\Projeto\ConsertaeApi\Consertae.Backend\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb
+E:\Users\Felipe Benevides\Documents\DigitalBank\DigitalBankApi\DigitalBank.Backend\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.deps.json
+E:\Users\Felipe Benevides\Documents\DigitalBank\DigitalBankApi\DigitalBank.Backend\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.dll
+E:\Users\Felipe Benevides\Documents\DigitalBank\DigitalBankApi\DigitalBank.Backend\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+E:\Users\Felipe Benevides\Documents\DigitalBank\DigitalBankApi\DigitalBank.Backend\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+E:\Users\Felipe Benevides\Documents\DigitalBank\DigitalBankApi\DigitalBank.Backend\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+E:\Users\Felipe Benevides\Documents\DigitalBank\DigitalBankApi\DigitalBank.Backend\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CoreCompileInputs.cache
+E:\Users\Felipe Benevides\Documents\DigitalBank\DigitalBankApi\DigitalBank.Backend\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
+E:\Users\Felipe Benevides\Documents\DigitalBank\DigitalBankApi\DigitalBank.Backend\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb
+E:\Users\Felipe Benevides\Documents\DigitalBank\DigitalBankApi\DigitalBank.Backend\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csprojAssemblyReference.cache
+E:\Users\Felipe Benevides\Documents\Testes\Einstein\netcore-test\DigitalBank.Backend\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.deps.json
+E:\Users\Felipe Benevides\Documents\Testes\Einstein\netcore-test\DigitalBank.Backend\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.dll
+E:\Users\Felipe Benevides\Documents\Testes\Einstein\netcore-test\DigitalBank.Backend\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+E:\Users\Felipe Benevides\Documents\Testes\Einstein\netcore-test\DigitalBank.Backend\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csprojAssemblyReference.cache
+E:\Users\Felipe Benevides\Documents\Testes\Einstein\netcore-test\DigitalBank.Backend\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+E:\Users\Felipe Benevides\Documents\Testes\Einstein\netcore-test\DigitalBank.Backend\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+E:\Users\Felipe Benevides\Documents\Testes\Einstein\netcore-test\DigitalBank.Backend\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CoreCompileInputs.cache
+E:\Users\Felipe Benevides\Documents\Testes\Einstein\netcore-test\DigitalBank.Backend\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
+E:\Users\Felipe Benevides\Documents\Testes\Einstein\netcore-test\DigitalBank.Backend\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb
