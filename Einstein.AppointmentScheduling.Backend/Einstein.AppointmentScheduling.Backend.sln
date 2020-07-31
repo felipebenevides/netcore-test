@@ -21,6 +21,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Data", "Data\Data.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain", "Domain\Domain.csproj", "{6BCE39CE-B7E4-40A3-AAA8-E83EE82ABF56}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5.0 - Test", "5.0 - Test", "{D41FF91A-50C2-47B8-A8E2-777619F973DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Einstein.AppointmentScheduling.Test", "Einstein.AppointmentScheduling.Test\Einstein.AppointmentScheduling.Test.csproj", "{84AFB7BC-42D8-4596-B5B8-4885E8EE1445}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -43,6 +47,10 @@ Global
 		{6BCE39CE-B7E4-40A3-AAA8-E83EE82ABF56}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6BCE39CE-B7E4-40A3-AAA8-E83EE82ABF56}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6BCE39CE-B7E4-40A3-AAA8-E83EE82ABF56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84AFB7BC-42D8-4596-B5B8-4885E8EE1445}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84AFB7BC-42D8-4596-B5B8-4885E8EE1445}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84AFB7BC-42D8-4596-B5B8-4885E8EE1445}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84AFB7BC-42D8-4596-B5B8-4885E8EE1445}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -53,6 +61,7 @@ Global
 		{95283BB5-81C2-4D6A-9186-CCAE4265C8CB} = {338897D2-ADA7-4018-B4C7-98405B54D5A6}
 		{B3D75113-B7AC-466C-ADE9-86DCD6BBEC74} = {95283BB5-81C2-4D6A-9186-CCAE4265C8CB}
 		{6BCE39CE-B7E4-40A3-AAA8-E83EE82ABF56} = {BA582071-8CF8-4E58-9B0D-C9E59F30721B}
+		{84AFB7BC-42D8-4596-B5B8-4885E8EE1445} = {D41FF91A-50C2-47B8-A8E2-777619F973DB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {65FC7F21-BD0E-4782-A867-832225B0CE10}
