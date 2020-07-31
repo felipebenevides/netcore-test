@@ -5,11 +5,11 @@
 Ajustar no Appconfig as configurações do Banco Local.
 Criar Banco AppointmentScheduling
 
-# CREATE DATABASE AppointmentScheduling
+CREATE DATABASE AppointmentScheduling
 
 Abrir o Packcage Manager Console e executar o seguinte comando:
 
-# Update-Database 
+ Update-Database 
 
 Para testar os endpoints a API irá rodar na porta 5001 com Swagger para auxiliar nos endpoins.
 
@@ -17,8 +17,8 @@ Para criação de Doctor, Patient e Consultation remova a propriedade Id do Obje
 
 Quaisquer Dúvidas e Sugestões construtivas estou à Disposição!
 
-# Felipe Benevides 
-# 11 99904 6971
+ Felipe Benevides 
+ 11 99904 6971
 
 
 
