@@ -10,6 +10,8 @@ namespace Data.Mappings
         {
             builder.HasKey(x => x.Id);
 
+            builder.Property(x => x.Date).HasColumnType("datetime");
+            
             builder.HasOne(x => x.Patient)
                 .WithMany(x => x.Consultations)
                 .HasForeignKey(x => x.IdPatient);
