@@ -18,9 +18,9 @@ namespace Data.Repository
             _context = ctx;
         }
 
-        public Consultation FindConsultation(Guid idDoctor, string Hour)
+        public Consultation FindConsultation(Guid idDoctor, DateTime DateTimeInitial, DateTime DateTimeFinal)
         {
-            string query = $"select * from Consultation where IdDoctor = '{idDoctor}' AND Hour = '{Hour}'"; 
+            string query = $"select * from Consultation where IdDoctor = '{idDoctor}' AND Date BETWEEN '{DateTimeInitial}' AND '{DateTimeFinal}'"; 
             return  _context.Consultation.FromSqlRaw(query).FirstOrDefault();
         }
     }

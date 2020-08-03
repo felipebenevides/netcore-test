@@ -22,7 +22,7 @@ namespace Domain.Service
    
         private bool ValidateTimeConsultation(Consultation entity)
         {
-            var searchConsultation = _consultationRepository.FindConsultation(entity.IdDoctor, entity.Hour);
+            var searchConsultation = _consultationRepository.FindConsultation(entity.IdDoctor, entity.Date, entity.Date.AddMinutes(60));
 
             if (searchConsultation != null)
                return false;
